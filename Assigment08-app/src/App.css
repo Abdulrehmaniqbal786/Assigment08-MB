@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    display: flex;
+}
+.round{
+    margin-left: 40px;
+    padding: 10px;
+}
+.mm{
+    height: 306px;
+}
+.flag{
+    margin-left: 120px;
+}
